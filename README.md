@@ -1,0 +1,4 @@
+- bootstrap
+- bootstrap icons
+- undraw.co
+- pexels

@@ -1,0 +1,59 @@
+// Set colors
+$primary: #00bfa6;
+$secondary: #37988b;
+// accordion colors
+$accordion-button-bg: #a0cbc5;
+$accordion-button-color: #3d3d3d;
+$accordion-button-active-bg: #a0cbc5;
+$accordion-button-active-color: #3d3d3d;
+$accordion-icon-color: #3d3d3d;
+$accordion-icon-active-color: #3d3d3d;
+
+// bootstrap import
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+// bootstrap-icons import
+@import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
+
+// buttons with white text
+.btn_white {
+  color: #fff;
+}
+
+// Social media icons/buttons
+#facebook_btn {
+  background-color: #3b5998;
+  border: 1px solid #fff;
+}
+#twitter_btn {
+  background-color: #55acee;
+  border: 1px solid #fff;
+}
+#instagram_btn {
+  background-color: #ac2bac;
+  border: 1px solid #fff;
+}
+#linkedin_btn {
+  background-color: #0082ca;
+  border: 1px solid #fff;
+}
+
+// service icons
+#services i {
+  font-size: 30px;
+  border: 3px solid;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+}
+#services i:hover {
+  color: #fff;
+  border: 3px solid $secondary;
+}
+
+#contact iframe {
+  width: 100%;
+  height: 100%;
+  min-height: 350px;
+  max-height: 600px;
+  max-width: 600px;
+}
