@@ -15,8 +15,8 @@ The purpose of developing this application is to improve my knowledge and practi
 
 <p align="center">
   <b>Desktop devices</b> <br>
-  <img src="img/web.jpg?raw=true" width="800" alt="App screenshot web"/>
-<img src="img/web_contact.jpg?raw=true" width="800" alt="App screenshot web contact"/>
+  <img src="img/web.jpg?raw=true" alt="App screenshot web"/>
+<img src="img/web_contact.jpg?raw=true" alt="App screenshot web contact"/>
 </p>
 
 <br/>
