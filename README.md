@@ -14,15 +14,15 @@ The purpose of developing this application is to improve my knowledge and practi
 ## Screenshots of the App
 
 <p align="center">
-  <i>Desktop devices</i> <br>
+  <b>Desktop devices</b> <br>
   <img src="img/web.jpg?raw=true" width="800" alt="App screenshot web"/>
-   <img src="img/web2.jpg?raw=true" width="800" alt="App screenshot web"/>
+<img src="img/web_contact.jpg?raw=true" width="800" alt="App screenshot web contact"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <i>Mobile devices</i><br>
+  <b>Mobile devices</b><br>
   <img src="img/mobile.jpg?raw=true" width="300" alt="App screenshot web"/>
  
 </p>
