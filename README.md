@@ -1,8 +1,6 @@
 # Learn Code App
 
-15 Feburary 2023
-
-The purpose of developing this application is to improve my knowledge and practise on Bootstrap.
+The purpose of developing this application is to improve my knowledge on Bootstrap.
 
 - CSS framework: [Bootstrap 5](https://getbootstrap.com/)
 - Icons: [Bootstrap Icons](https://icons.getbootstrap.com/)
